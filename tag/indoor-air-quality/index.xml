@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Indoor Air Quality | Himanshu Sharma</title>
+    <link>https://himscipy.github.io/tag/indoor-air-quality/</link>
+      <atom:link href="https://himscipy.github.io/tag/indoor-air-quality/index.xml" rel="self" type="application/rss+xml" />
+    <description>Indoor Air Quality</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©Himanshu Sharma 2020</copyright><lastBuildDate>Sun, 12 May 2019 19:37:36 -0700</lastBuildDate>
+    <image>
+      <url>https://himscipy.github.io/images/icon_hubbf93ac11c8082ceecfc59197d660a4d_16666_512x512_fill_lanczos_center_2.png</url>
+      <title>Indoor Air Quality</title>
+      <link>https://himscipy.github.io/tag/indoor-air-quality/</link>
+    </image>
+    
+    <item>
+      <title>Indoor Air Quality Sensor Placement Accounting for Airflow Uncertainty </title>
+      <link>https://himscipy.github.io/project/my-project-sensorplace/</link>
+      <pubDate>Sun, 12 May 2019 19:37:36 -0700</pubDate>
+      <guid>https://himscipy.github.io/project/my-project-sensorplace/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;ABSTRACT&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Sensors in buildings are used for a wide variety of applications such as monitoring air quality, contaminants, indoor temperature, and relative humidity. These are used for accessing and ensuring indoor air quality, and also for ensuring safety in the event of chemical and biological attacks. It follows that optimal placement of sensors become important to accurately monitor contaminant levels in the indoor environment. However, contaminant transport inside the indoor environment is governed by the indoor flow conditions which are affected by various uncertainties associated with the building systems including occupancy and boundary fluxes. Therefore, it is important to account for all associated uncertainties while designing the sensor layout.The transfer operator based framework provides an effective way to identify optimal placement of sensors. Previous work has been limited to sensor placements under deterministic scenarios. In this work we extend the transfer operator based approach for optimal sensor placement while accounting for building systems uncertainties. The methodology provides a probabilistic metric to gauge coverage under uncertain conditions. We illustrate the capabilities of the framework with examples exhibiting boundary flux uncertainty.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

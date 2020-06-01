@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>J Elise | Himanshu Sharma</title>
+    <link>https://himscipy.github.io/author/j-elise/</link>
+      <atom:link href="https://himscipy.github.io/author/j-elise/index.xml" rel="self" type="application/rss+xml" />
+    <description>J Elise</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©Himanshu Sharma 2020</copyright><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://himscipy.github.io/images/icon_hubbf93ac11c8082ceecfc59197d660a4d_16666_512x512_fill_lanczos_center_2.png</url>
+      <title>J Elise</title>
+      <link>https://himscipy.github.io/author/j-elise/</link>
+    </image>
+    
+    <item>
+      <title>Accelerating RANS turbulence modeling using potential flow and machine learning (Pre-print available)</title>
+      <link>https://himscipy.github.io/publication/maulik-2019-accelerating/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://himscipy.github.io/publication/maulik-2019-accelerating/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

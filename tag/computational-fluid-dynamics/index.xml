@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Computational Fluid Dynamics | Himanshu Sharma</title>
+    <link>https://himscipy.github.io/tag/computational-fluid-dynamics/</link>
+      <atom:link href="https://himscipy.github.io/tag/computational-fluid-dynamics/index.xml" rel="self" type="application/rss+xml" />
+    <description>Computational Fluid Dynamics</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©Himanshu Sharma 2020</copyright><lastBuildDate>Wed, 12 Aug 2020 11:00:01 -0700</lastBuildDate>
+    <image>
+      <url>https://himscipy.github.io/images/icon_hubbf93ac11c8082ceecfc59197d660a4d_16666_512x512_fill_lanczos_center_2.png</url>
+      <title>Computational Fluid Dynamics</title>
+      <link>https://himscipy.github.io/tag/computational-fluid-dynamics/</link>
+    </image>
+    
+    <item>
+      <title>High Fidelity Data Surrogates for Enhancing Co-Simulation Capabilities of Energy Simulation Tools</title>
+      <link>https://himscipy.github.io/talk/my-talk-simbuild2020/</link>
+      <pubDate>Wed, 12 Aug 2020 11:00:01 -0700</pubDate>
+      <guid>https://himscipy.github.io/talk/my-talk-simbuild2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Integrating Deep Learning with Computational Fluid Dynamics Solvers</title>
+      <link>https://himscipy.github.io/project/my-project-tensorflowmachinelearning/</link>
+      <pubDate>Wed, 20 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://himscipy.github.io/project/my-project-tensorflowmachinelearning/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;ABSTRACT&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Reynolds-averaged Navier-Stokes (RANS) equations for steady-state assessment of incompressible turbulent flows remain the workhorse for practical computational fluid dynamics (CFD) applications, and improvements in speed or accuracy have the potential to affect a diverse range of sectors. We introduce a machine learning framework for the acceleration of RANS to predict steady-state turbulent eddy viscosities, given the initial conditions. This surrogate model for the turbulent eddy viscosity is assessed for parametric interpolation, while numerically solving for the pressure and velocity equations to steady-state, thus representing a framework that is hybridized with machine learning. We achieve accurate steady-state results with a significant reduction in solution time when compared to those obtained by the Spalart-Allmaras one-equation model. Most notably the proposed methodology allows for considerably larger relaxation factors for the steady-state velocity and pressure solvers. Our assessments are made for a backward-facing step with considerable mesh anisotropy and separation to represent a practical CFD application. For test experiments with varying inlet velocity conditions, we see time-to-solution reductions around a factor of 5. Similar results are obtained for a surrogate modeling strategy that generalizes across varying step heights. The proposed framework represents an excellent opportunity for the rapid exploration of large parameter spaces that prove prohibitive when utilizing turbulence closure models with multiple coupled partial differential equations.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Construction of Perron Frobenius Operator from Computational Fluid Dynamics (CFD) Data</title>
+      <link>https://himscipy.github.io/project/my-project-koopman/</link>
+      <pubDate>Fri, 25 May 2018 00:00:00 +0000</pubDate>
+      <guid>https://himscipy.github.io/project/my-project-koopman/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;ABSTRACT&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;To model the contaminant transport consider the following advection-diffusion partial differential equation (PDE) with source term and output measurement.&lt;/p&gt;
+&lt;p&gt;\begin{align}
+&amp;amp; \frac{\partial \Phi}{\partial t} + \nabla( \bf{U}\Phi) +\nabla^2( \mathcal{D}\Phi) = S_{\Phi} \\ &amp;amp; y=\chi_{A_k}(\textbf{x})\Phi, \quad k=1,\ldots,p
+\label{Eq:1}\tag{1}
+\end{align}&lt;/p&gt;
+&lt;p&gt;where $\Phi(\textbf{x},t)$ is the scalar contaminant density at time $t$, $\textbf{x} \in X\subset{R}^n$ is the physical space, $\mathcal{D}$ is the diffusion constant and $S_{\Phi}$ is the source term in Eq.(\ref{Eq:1}). The contaminant is propagated by the $\bf U$ field which can be steady or can be a function of time. Flow field ($\bf U$) can be computed numerically using CFD or can be generated experimentally. $\chi_{A_k}(\textbf{x})$ for $k=1,\ldots,p$ denotes the indicator function for set $A_k\subset X$ and corresponds to the location of $p$ sensors. It is important to note that the advection-diffusion PDE Eq.(\ref{Eq:1}) describe linear evolution for the propagation of contaminant $\Phi$. This continuous time linear PDE evolution model can be replaced by its discrete-time equivalent by using the linear transfer P-F operator. In the absence of source term in Eq.(\ref{Eq:1}), the discrete-time evolution of advection-diffusion PDE is described by following P-F operator;&lt;/p&gt;
+&lt;p&gt;\begin{align}
+[ \mathbb{P} \mu] (A)=\int_X p(\textbf{x},A)d\mu(\textbf{x})
+\end{align}&lt;/p&gt;
+&lt;p&gt;where $\mu\in {\cal M}(X)$ the space of real-valued measure and $p(\textbf{x},A)$ is stochastic transition function and describes the transition probability from point $\textbf{x}$ to set $A\subset X$. To compute the finite dimensional approximation of the P-F operator we only need the information about the nonlinear flow field $\bf U$ and the diffusion coefficient $\mathcal{D}$ as is described in the following section. An example of this is shown in above figure, where the velocity field is shown by vectors and the color contours as the initial concentration.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Surrogate Modeling for Integrating High-Fidelity Data with Energy Simulations Tools</title>
+      <link>https://himscipy.github.io/project/my-project-atticsurrogate/</link>
+      <pubDate>Fri, 25 May 2018 00:00:00 +0000</pubDate>
+      <guid>https://himscipy.github.io/project/my-project-atticsurrogate/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;ABSTRACT&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Attic specific energy modeling tools are used by engineers and researchers to evaluate the impact of different design features, products, and materials systems on an attic&amp;rsquo;s energy, thermal, and hygrothermal performance. These frameworks and their simulation component models have been carefully validated over the last 40–50 years. A fundamental assumption in these modeling tools is that the air within the attic is well mixed. However, various experimental and numerical studies have shown that the flow inside a triangular attic is not well mixed and an asymmetrical heating of enclosure can develop flow instabilities. Under these flow regimes the calculation of interior convective fluxes using empirical correlations can be error prone. To investigate the impact of this assumption on the performance of a benchmark attic problem, we develop a coupling approach between the Fraunhofer Attic Thermal Model (FATM) and computational fluid dynamics (CFD). Instead of directly coupling a CFD solver to FATM, this paper presents an offline surrogate modeling coupling strategy. The generalized method established in this paper allows for future extension of the approach for different attic geometries, as well as whole building simulations. The work flow uses open-source tools for constructing the surrogate and making it easily integrable with any commercial/non-commercial whole building or attic simulation framework. Since the majority of the computations are moved offline, this approach provides substantial computational speedup during online simulations in comparison to earlier coupling approaches. An additional benefit of the approach is the surrogate can also be used for flow visualization inside the attic.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

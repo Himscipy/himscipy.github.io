@@ -1,0 +1,372 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://himscipy.github.io/authors/</loc>
+    <lastmod>2020-08-12T11:00:01-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://himscipy.github.io/tag/building-systems/</loc>
+    <lastmod>2020-08-12T11:00:01-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://himscipy.github.io/tag/computational-fluid-dynamics/</loc>
+    <lastmod>2020-08-12T11:00:01-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://himscipy.github.io/tag/data-driven-modeling/</loc>
+    <lastmod>2020-08-12T11:00:01-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://himscipy.github.io/tag/energy-simulation-tools/</loc>
+    <lastmod>2020-08-12T11:00:01-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://himscipy.github.io/talk/my-talk-simbuild2020/</loc>
+    <lastmod>2020-08-12T11:00:01-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://himscipy.github.io/author/himanshu-sharma/</loc>
+    <lastmod>2020-08-12T11:00:01-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://himscipy.github.io/</loc>
+    <lastmod>2020-08-12T11:00:01-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://himscipy.github.io/talk/</loc>
+    <lastmod>2020-08-12T11:00:01-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://himscipy.github.io/tag/surrogate-modeling/</loc>
+    <lastmod>2020-08-12T11:00:01-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://himscipy.github.io/tags/</loc>
+    <lastmod>2020-08-12T11:00:01-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://himscipy.github.io/tag/covid-19/</loc>
+    <lastmod>2020-06-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://himscipy.github.io/talk/my-talk-vip_covid192020/</loc>
+    <lastmod>2020-06-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://himscipy.github.io/publication-type/1/</loc>
+    <lastmod>2020-05-27T21:19:06+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://himscipy.github.io/author/g.-baskar/</loc>
+    <lastmod>2020-05-27T21:19:06+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://himscipy.github.io/publication_types/</loc>
+    <lastmod>2020-05-27T21:19:06+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://himscipy.github.io/publication/</loc>
+    <lastmod>2020-05-27T21:19:06+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://himscipy.github.io/author/s.-himanshu/</loc>
+    <lastmod>2020-05-27T21:19:06+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://himscipy.github.io/publication/sharma-acc-2019/</loc>
+    <lastmod>2020-05-27T21:19:06+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://himscipy.github.io/author/v.-umesh/</loc>
+    <lastmod>2020-05-27T21:19:06+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://himscipy.github.io/author/bethany-lusch/</loc>
+    <lastmod>2020-05-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://himscipy.github.io/author/elise-jennings/</loc>
+    <lastmod>2020-05-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://himscipy.github.io/project/my-project-tensorflowmachinelearning/</loc>
+    <lastmod>2020-05-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://himscipy.github.io/tag/machine-learning/</loc>
+    <lastmod>2020-05-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://himscipy.github.io/project/</loc>
+    <lastmod>2020-05-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://himscipy.github.io/author/romit-maulik/</loc>
+    <lastmod>2020-05-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://himscipy.github.io/author/saumil-patel/</loc>
+    <lastmod>2020-05-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://himscipy.github.io/tag/bayesian-neural-networks/</loc>
+    <lastmod>2019-05-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://himscipy.github.io/project/my-project-bnn/</loc>
+    <lastmod>2019-05-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://himscipy.github.io/tag/uncertainty-quantification/</loc>
+    <lastmod>2019-05-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://himscipy.github.io/tag/indoor-air-quality/</loc>
+    <lastmod>2019-05-12T19:37:36-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://himscipy.github.io/project/my-project-sensorplace/</loc>
+    <lastmod>2019-05-12T19:37:36-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://himscipy.github.io/publication-type/2/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://himscipy.github.io/publication/sharma-uq/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://himscipy.github.io/publication/maulik-2019-accelerating/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://himscipy.github.io/publication/sharma-bayesian/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://himscipy.github.io/publication/shen-2019-deep/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://himscipy.github.io/publication/sharma-cont-estim/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://himscipy.github.io/author/h.-eliu-a/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://himscipy.github.io/author/j-elise/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://himscipy.github.io/author/j.-elise/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://himscipy.github.io/author/l-bethany/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://himscipy.github.io/author/m-romit/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://himscipy.github.io/author/p-saumil/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://himscipy.github.io/author/s-himanshu/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://himscipy.github.io/author/s.-hongyu/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://himscipy.github.io/author/z.-zhizhen/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://himscipy.github.io/publication/sharma-sarkar-purdue-2017/</loc>
+    <lastmod>2018-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://himscipy.github.io/author/c.-venkatesh/</loc>
+    <lastmod>2018-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://himscipy.github.io/author/p.-ulrike/</loc>
+    <lastmod>2018-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://himscipy.github.io/author/s.-soumik/</loc>
+    <lastmod>2018-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://himscipy.github.io/author/w.-linjiang/</loc>
+    <lastmod>2018-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://himscipy.github.io/privacy/</loc>
+    <lastmod>2018-06-28T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://himscipy.github.io/author/f.-anthony/</loc>
+    <lastmod>2018-06-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://himscipy.github.io/publication/sharma-acc-2017/</loc>
+    <lastmod>2018-06-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://himscipy.github.io/project/my-project-koopman/</loc>
+    <lastmod>2018-05-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://himscipy.github.io/tag/sensor-placement/</loc>
+    <lastmod>2018-05-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://himscipy.github.io/project/my-project-atticsurrogate/</loc>
+    <lastmod>2018-05-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://himscipy.github.io/author/c.-kristen/</loc>
+    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://himscipy.github.io/author/k.-jan/</loc>
+    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://himscipy.github.io/publication/sharma-2018-surrogate/</loc>
+    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://himscipy.github.io/publication/sharma-ibpsa-2017/</loc>
+    <lastmod>2017-08-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://himscipy.github.io/publication/sharma-2015/</loc>
+    <lastmod>2015-06-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://himscipy.github.io/author/d.-murali/</loc>
+    <lastmod>2015-06-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://himscipy.github.io/author/h.-soham/</loc>
+    <lastmod>2015-06-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://himscipy.github.io/author/k.-boo-cheong/</loc>
+    <lastmod>2015-06-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://himscipy.github.io/author/s.-milan/</loc>
+    <lastmod>2015-06-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://himscipy.github.io/author/v.-sachcit/</loc>
+    <lastmod>2015-06-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://himscipy.github.io/publication/sharma-2014-computational/</loc>
+    <lastmod>2014-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://himscipy.github.io/publication/sharma-2017/</loc>
+    <lastmod>2014-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://himscipy.github.io/author/g.-pravin/</loc>
+    <lastmod>2014-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://himscipy.github.io/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>https://himscipy.github.io/author/himanshu-sharma/</loc>
+  </url>
+  
+  <url>
+    <loc>https://himscipy.github.io/post/</loc>
+  </url>
+  
+</urlset>

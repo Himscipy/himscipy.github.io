@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Bethany Lusch | Himanshu Sharma</title>
+    <link>https://himscipy.github.io/author/bethany-lusch/</link>
+      <atom:link href="https://himscipy.github.io/author/bethany-lusch/index.xml" rel="self" type="application/rss+xml" />
+    <description>Bethany Lusch</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©Himanshu Sharma 2020</copyright><lastBuildDate>Wed, 20 May 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://himscipy.github.io/images/icon_hubbf93ac11c8082ceecfc59197d660a4d_16666_512x512_fill_lanczos_center_2.png</url>
+      <title>Bethany Lusch</title>
+      <link>https://himscipy.github.io/author/bethany-lusch/</link>
+    </image>
+    
+    <item>
+      <title>Integrating Deep Learning with Computational Fluid Dynamics Solvers</title>
+      <link>https://himscipy.github.io/project/my-project-tensorflowmachinelearning/</link>
+      <pubDate>Wed, 20 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://himscipy.github.io/project/my-project-tensorflowmachinelearning/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;ABSTRACT&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Reynolds-averaged Navier-Stokes (RANS) equations for steady-state assessment of incompressible turbulent flows remain the workhorse for practical computational fluid dynamics (CFD) applications, and improvements in speed or accuracy have the potential to affect a diverse range of sectors. We introduce a machine learning framework for the acceleration of RANS to predict steady-state turbulent eddy viscosities, given the initial conditions. This surrogate model for the turbulent eddy viscosity is assessed for parametric interpolation, while numerically solving for the pressure and velocity equations to steady-state, thus representing a framework that is hybridized with machine learning. We achieve accurate steady-state results with a significant reduction in solution time when compared to those obtained by the Spalart-Allmaras one-equation model. Most notably the proposed methodology allows for considerably larger relaxation factors for the steady-state velocity and pressure solvers. Our assessments are made for a backward-facing step with considerable mesh anisotropy and separation to represent a practical CFD application. For test experiments with varying inlet velocity conditions, we see time-to-solution reductions around a factor of 5. Similar results are obtained for a surrogate modeling strategy that generalizes across varying step heights. The proposed framework represents an excellent opportunity for the rapid exploration of large parameter spaces that prove prohibitive when utilizing turbulence closure models with multiple coupled partial differential equations.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
